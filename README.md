@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**izayoishi/izayoishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 About Me
+- I play online games like Valorant, League of Legends, Roblox and some co-op games.
+- Member of CompSciety at Bulacan State University.
+- Likes to watch fantasy and romcom anime
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Languages: C++ and Java
+- Web: Javascript
+- Database: SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Current Focus
+- Learning Python
+- Machine Learning Fundamentals
+- Improve Problem-Solving skills and Programming
+
+## 🌐 Socials
+- Facebook: https://www.facebook.com/jeff.roel.durmiendo.2024
+- Discord: izayoishi
